@@ -1,0 +1,9 @@
+{
+  "name": "angular-redactor",
+  "version": "v1.1.2",
+  "main": "angular-redactor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TylerGarlick/angular-redactor.git"
+  }
+}
